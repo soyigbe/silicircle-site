@@ -1,3 +1,4 @@
+import React from "react";
 export default function HomePage() {
   return (
     <main className="flex flex-col items-center justify-start p-8 gap-12">
